@@ -1,0 +1,8 @@
+language: java
+
+jdk:
+  - oraclejdk11
+  - openjdk11
+  
+before_install:
+  - cd java
