@@ -1,4 +1,4 @@
-package com.scheema;
+package cz.patriksima.mychess;
 
 enum Side {
     BLACK,

@@ -1,4 +1,4 @@
-package com.scheema;
+package cz.patriksima.mychess;
 
 final class File {
     final static int A = 0;

@@ -1,4 +1,4 @@
-package com.scheema;
+package cz.patriksima.mychess;
 
 final class Rank {
     final static int R1 = 0;
